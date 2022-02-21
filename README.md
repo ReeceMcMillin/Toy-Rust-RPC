@@ -22,7 +22,7 @@ In four separate terminals and in the following order:
 
 The output looks something like the following:
 
-```json
+```
 [client/src/main.rs:17] proxy.get_by_name("rakin".to_string()).await = {
     "rakin": Person {
         record_id: 1,
